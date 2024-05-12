@@ -1,8 +1,9 @@
-# [VR]HW3
-- Unity 버전: 2022.3.21f1
-- 화면 비율: Full HD ( 1920 * 1080 )
+# [VR] University Tour
+- Unity Editor version: 2022.3.21f1
+- Tech Stack: Unity, C#
 - 시작 Scene: HW3_Scene
    - ![image](https://github.com/inaemon/VR_HW3/assets/125636780/f0d393c6-7bf9-468d-8d6d-7672b79dfd9e)
+
 
 ## Scene 소개
 ### 정문
